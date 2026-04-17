@@ -66,7 +66,8 @@ Data-Science-Concepts/
 │
 ├── Assignments_Solution/
 │   │
-│   ├── Basic stats - 2/
+│   ├── Basic stats - 1/
+|   ├── Basic stats - 2/
 │   ├── Basics of python/
 │   ├── Clustering/
 │   ├── Decision Tree/
