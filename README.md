@@ -154,4 +154,4 @@ cd data-science-concepts
 
 ## 💡 Repository Description (Use on GitHub)
 
-Comprehensive Data Science & Machine Learning repository covering statistics, EDA, and ML algorithms with Python implementations and datasets.
+A curated set of data science projects exploring data analysis, visualization, and machine learning models across diverse datasets.
