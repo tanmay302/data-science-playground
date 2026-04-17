@@ -64,24 +64,26 @@ Each folder includes:
 ```
 Data-Science-Concepts/
 │
-├── Basic stats - 2/
-├── Basics of python/
-├── Clustering/
-├── Decision Tree/
-├── EDA1/
-├── EDA2/
-├── Hypothesis testing/
-├── KNN/
-├── Logistic Regression/
-├── MLR/
-├── Naive Bayes and Text Mining/
-├── Neural networks/
-├── PCA/
-├── Random Forest/
-├── Recommendation System/
-├── SVM/
-├── Timeseries/
-├── XGBM & LGBM/
+├── Assignments_Solution/
+│   │
+│   ├── Basic stats - 2/
+│   ├── Basics of python/
+│   ├── Clustering/
+│   ├── Decision Tree/
+│   ├── EDA1/
+│   ├── EDA2/
+│   ├── Hypothesis testing/
+│   ├── KNN/
+│   ├── Logistic Regression/
+│   ├── MLR/
+│   ├── Naive Bayes and Text Mining/
+│   ├── Neural networks/
+│   ├── PCA/
+│   ├── Random Forest/
+│   ├── Recommendation System/
+│   ├── SVM/
+│   ├── Timeseries/
+│   ├── XGBM & LGBM/
 │
 └── README.md
 ```
